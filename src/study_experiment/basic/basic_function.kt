@@ -1,7 +1,10 @@
 package study_experiment.basic
 
 fun main() {
-    cobaLambda("vito",21)
+
+
+
+
 
 }
 
@@ -17,4 +20,5 @@ var cobaLambda : (String,Int)->String = { name,umur->
     println("nama saya $name dan $umur")
     name
 }
+
 
